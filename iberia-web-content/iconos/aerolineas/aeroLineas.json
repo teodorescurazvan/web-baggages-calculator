@@ -1,0 +1,687 @@
+[
+  {
+    "iataCompanyCode": "4M",
+    "airlineName": "",
+    "url": "logo_pos_4M.svg"
+  },
+  {
+    "iataCompanyCode": "4R",
+    "airlineName": "Renfe tren",
+    "url": "logo_pos_4R.svg"
+  },
+  {
+    "iataCompanyCode": "4O",
+    "airlineName": "",
+    "url": "logo_pos_4O.svg"
+  },
+  {
+    "iataCompanyCode": "6V",
+    "airlineName": "Avanza grupo",
+    "url": "logo_pos_6V.svg"
+  },
+  {
+    "iataCompanyCode": "5I",
+    "airlineName": "Alsa Grupo SLU",
+    "url": "logo_pos_5I.svg"
+  },
+  {
+    "iataCompanyCode": "9B",
+    "airlineName": "",
+    "url": "logo_pos_9B.svg"
+  },
+  {
+    "iataCompanyCode": "9W",
+    "airlineName": "",
+    "url": "logo_pos_9W.svg"
+  },
+  {
+    "iataCompanyCode": "AT",
+    "airlineName": "Royal Air Maroc",
+    "url": "logo_pos_AT.svg"
+  },
+  {
+    "iataCompanyCode": "AV",
+    "airlineName": "",
+    "url": "logo_pos_AV.svg"
+  },
+  {
+    "iataCompanyCode": "B6",
+    "airlineName": "",
+    "url": "logo_pos_B6.svg"
+  },
+  {
+    "iataCompanyCode": "CM",
+    "airlineName": "",
+    "url": "logo_pos_CM.svg"
+  },
+  {
+    "iataCompanyCode": "E9",
+    "airlineName": "",
+    "url": "logo_pos_E9.svg"
+  },
+  {
+    "iataCompanyCode": "EI",
+    "airlineName": "",
+    "url": "logo_pos_EI.svg"
+  },
+  {
+    "iataCompanyCode": "FB",
+    "airlineName": "",
+    "url": "logo_pos_FB.svg"
+  },
+  {
+    "iataCompanyCode": "I2",
+    "airlineName": "",
+    "url": "logo_pos_I2.svg"
+  },
+  {
+    "iataCompanyCode": "IG",
+    "airlineName": "",
+    "url": "logo_pos_IG.svg"
+  },
+  {
+    "iataCompanyCode": "JJ",
+    "airlineName": "",
+    "url": "logo_pos_JJ.svg"
+  },
+  {
+    "iataCompanyCode": "KM",
+    "airlineName": "",
+    "url": "logo_pos_KM.svg"
+  },
+  {
+    "iataCompanyCode": "LP",
+    "airlineName": "",
+    "url": "logo_pos_LP.svg"
+  },
+  {
+    "iataCompanyCode": "LR",
+    "airlineName": "",
+    "url": "logo_pos_LR.svg"
+  },
+  {
+    "iataCompanyCode": "LX",
+    "airlineName": "",
+    "url": "logo_pos_LX.svg"
+  },
+  {
+    "iataCompanyCode": "LY",
+    "airlineName": "",
+    "url": "logo_pos_LY.svg"
+  },
+  {
+    "iataCompanyCode": "MH",
+    "airlineName": "Malaysia Airlines",
+    "url": "logo_pos_MH.svg"
+  },
+  {
+    "iataCompanyCode": "MS",
+    "airlineName": "",
+    "url": "logo_pos_MS.svg"
+  },
+  {
+    "iataCompanyCode": "OK",
+    "airlineName": "",
+    "url": "logo_pos_OK.svg"
+  },
+  {
+    "iataCompanyCode": "PS",
+    "airlineName": "",
+    "url": "logo_pos_PS.svg"
+  },
+  {
+    "iataCompanyCode": "PU",
+    "airlineName": "",
+    "url": "logo_pos_PU.svg"
+  },
+  {
+    "iataCompanyCode": "PZ",
+    "airlineName": "",
+    "url": "logo_pos_PZ.svg"
+  },
+  {
+    "iataCompanyCode": "QR",
+    "airlineName": "",
+    "url": "logo_pos_QR.svg"
+  },
+  {
+    "iataCompanyCode": "RB",
+    "airlineName": "",
+    "url": "logo_pos_RB.svg"
+  },
+  {
+    "iataCompanyCode": "RF",
+    "airlineName": "Renfe tren",
+    "url": "logo_pos_RF.svg"
+  },
+  {
+    "iataCompanyCode": "RO",
+    "airlineName": "",
+    "url": "logo_pos_RO.svg"
+  },
+  {
+    "iataCompanyCode": "SN",
+    "airlineName": "",
+    "url": "logo_pos_SN.svg"
+  },
+  {
+    "iataCompanyCode": "TP",
+    "airlineName": "",
+    "url": "logo_pos_TP.svg"
+  },
+  {
+    "iataCompanyCode": "UL",
+    "airlineName": "",
+    "url": "logo_pos_UL.svg"
+  },
+  {
+    "iataCompanyCode": "VY",
+    "airlineName": "",
+    "url": "logo_pos_VY.svg"
+  },
+  {
+    "iataCompanyCode": "XL",
+    "airlineName": "",
+    "url": "logo_pos_XL.svg"
+  },
+  {
+    "iataCompanyCode": "YW",
+    "airlineName": "Air Nostrum",
+    "url": "logo_pos_YW.svg"
+  },
+  {
+    "iataCompanyCode": "IB",
+    "airlineName": "Iberia",
+    "url": "logo_pos_IB.svg"
+  },
+  {
+    "iataCompanyCode": "AB",
+    "airlineName": "Air Berlin",
+    "url": "logo_pos_AB.svg"
+  },
+  {
+    "iataCompanyCode": "AA",
+    "airlineName": "American Airlines",
+    "url": "logo_pos_AA.svg"
+  },
+  {
+    "iataCompanyCode": "NT",
+    "airlineName": "Binter Canarias",
+    "url": "logo_pos_NT.svg"
+  },
+  {
+    "iataCompanyCode": "BA",
+    "airlineName": "British Airways",
+    "url": "logo_pos_BA.svg"
+  },
+  {
+    "iataCompanyCode": "CX",
+    "airlineName": "Cathay Pacific",
+    "url": "logo_pos_CX.svg"
+  },
+  {
+    "iataCompanyCode": "AY",
+    "airlineName": "Finnair",
+    "url": "logo_pos_AY.svg"
+  },
+  {
+    "iataCompanyCode": "JL",
+    "airlineName": "JAL Japan Airlines",
+    "url": "logo_pos_JL.svg"
+  },
+  {
+    "iataCompanyCode": "LA",
+    "airlineName": "LAN",
+    "url": "logo_pos_LA.svg"
+  },
+  {
+    "iataCompanyCode": "QF",
+    "airlineName": "Qantas",
+    "url": "logo_pos_QF.svg"
+  },
+  {
+    "iataCompanyCode": "RJ",
+    "airlineName": "Royal Jordanian",
+    "url": "logo_pos_RJ.svg"
+  },
+  {
+    "iataCompanyCode": "S7",
+    "airlineName": "S7 Siberia Airlines",
+    "url": "logo_pos_S7.svg"
+  },
+  {
+    "iataCompanyCode": "US",
+    "airlineName": "US Airways",
+    "url": "logo_pos_US.svg"
+  },
+  {
+    "iataCompanyCode": "LV",
+    "airlineName": "Iberia para Level",
+    "url": "logo_pos_LV.svg"
+  },
+  {
+    "iataCompanyCode": "I0",
+    "airlineName": "Iberia para Level",
+    "url": "logo_pos_I0.svg"
+  },
+  {
+    "iataCompanyCode": "0I",
+    "airlineName": "Iberia para Level Spain",
+    "url": "logo_pos_0I.svg"
+  },
+  {
+    "iataCompanyCode": "o0",
+    "airlineName": "Openskies para Level",
+    "url": "logo_pos_o0.svg"
+  },
+  {
+    "iataCompanyCode": "o1",
+    "airlineName": "Openskies para Level France",
+    "url": "logo_pos_o1.svg"
+  },
+  {
+    "iataCompanyCode": "I0-dis",
+    "airlineName": "Iberia para Level",
+    "url": "logo_desact_I0.svg"
+  },
+  {
+    "iataCompanyCode": "0I-dis",
+    "airlineName": "Iberia para Level Spain",
+    "url": "logo_desact_0I.svg"
+  },
+  {
+    "iataCompanyCode": "o0-dis",
+    "airlineName": "Openskies para Level",
+    "url": "logo_desact_o0.svg"
+  },
+  {
+    "iataCompanyCode": "o1-dis",
+    "airlineName": "Openskies para Level France",
+    "url": "logo_desact_o1.svg"
+  },
+  {
+    "iataCompanyCode": "4M-dis",
+    "airlineName": "",
+    "url": "logo_desact_4M.svg"
+  },
+  {
+    "iataCompanyCode": "4R-dis",
+    "airlineName": "Renfe tren",
+    "url": "logo_desact_4R.svg"
+  },
+  {
+    "iataCompanyCode": "4O-dis",
+    "airlineName": "",
+    "url": "logo_desact_4O.svg"
+  },
+  {
+    "iataCompanyCode": "5I-dis",
+    "airlineName": "Alsa Grupo SLU",
+    "url": "logo_desact_5I.svg"
+  },
+  {
+    "iataCompanyCode": "6V-dis",
+    "airlineName": "Avanza grupo",
+    "url": "logo_desact_6V.svg"
+  },
+  {
+    "iataCompanyCode": "9B-dis",
+    "airlineName": "",
+    "url": "logo_desact_9B.svg"
+  },
+  {
+    "iataCompanyCode": "9W-dis",
+    "airlineName": "",
+    "url": "logo_desact_9W.svg"
+  },
+  {
+    "iataCompanyCode": "AA-dis",
+    "airlineName": "American Airlines",
+    "url": "logo_desact_AA.svg"
+  },
+  {
+    "iataCompanyCode": "AB-dis",
+    "airlineName": "Air Berlin",
+    "url": "logo_desact_AB.svg"
+  },
+  {
+    "iataCompanyCode": "AT-dis",
+    "airlineName": "",
+    "url": "logo_desact_AT.svg"
+  },
+  {
+    "iataCompanyCode": "AV-dis",
+    "airlineName": "",
+    "url": "logo_desact_AV.svg"
+  },
+  {
+    "iataCompanyCode": "AY-dis",
+    "airlineName": "Finnair",
+    "url": "logo_desact_AY.svg"
+  },
+  {
+    "iataCompanyCode": "B6-dis",
+    "airlineName": "",
+    "url": "logo_desact_B6.svg"
+  },
+  {
+    "iataCompanyCode": "BA-dis",
+    "airlineName": "British Airways",
+    "url": "logo_desact_BA.svg"
+  },
+  {
+    "iataCompanyCode": "CM-dis",
+    "airlineName": "",
+    "url": "logo_desact_CM.svg"
+  },
+  {
+    "iataCompanyCode": "CX-dis",
+    "airlineName": "Cathay Pacific",
+    "url": "logo_desact_CX.svg"
+  },
+  {
+    "iataCompanyCode": "E9-dis",
+    "airlineName": "",
+    "url": "logo_desact_E9.svg"
+  },
+  {
+    "iataCompanyCode": "EI-dis",
+    "airlineName": "",
+    "url": "logo_desact_EI.svg"
+  },
+  {
+    "iataCompanyCode": "FB-dis",
+    "airlineName": "",
+    "url": "logo_desact_FB.svg"
+  },
+  {
+    "iataCompanyCode": "I2-dis",
+    "airlineName": "",
+    "url": "logo_desact_I2.svg"
+  },
+  {
+    "iataCompanyCode": "IB-dis",
+    "airlineName": "Iberia",
+    "url": "logo_desact_IB.svg"
+  },
+  {
+    "iataCompanyCode": "IG-dis",
+    "airlineName": "",
+    "url": "logo_desact_IG.svg"
+  },
+  {
+    "iataCompanyCode": "JJ-dis",
+    "airlineName": "",
+    "url": "logo_desact_JJ.svg"
+  },
+  {
+    "iataCompanyCode": "JL-dis",
+    "airlineName": "JAL Japan Airlines",
+    "url": "logo_desact_JL.svg"
+  },
+  {
+    "iataCompanyCode": "KM-dis",
+    "airlineName": "",
+    "url": "logo_desact_KM.svg"
+  },
+  {
+    "iataCompanyCode": "LA-dis",
+    "airlineName": "LAN",
+    "url": "logo_desact_LA.svg"
+  },
+  {
+    "iataCompanyCode": "LP-dis",
+    "airlineName": "",
+    "url": "logo_desact_LP.svg"
+  },
+  {
+    "iataCompanyCode": "LR-dis",
+    "airlineName": "",
+    "url": "logo_desact_LR.svg"
+  },
+  {
+    "iataCompanyCode": "LX-dis",
+    "airlineName": "",
+    "url": "logo_desact_LX.svg"
+  },
+  {
+    "iataCompanyCode": "LY-dis",
+    "airlineName": "",
+    "url": "logo_desact_LY.svg"
+  },
+  {
+    "iataCompanyCode": "MH-dis",
+    "airlineName": "",
+    "url": "logo_desact_MH.svg"
+  },
+  {
+    "iataCompanyCode": "MS-dis",
+    "airlineName": "",
+    "url": "logo_desact_MS.svg"
+  },
+  {
+    "iataCompanyCode": "NT-dis",
+    "airlineName": "Binter Canarias",
+    "url": "logo_desact_NT.svg"
+  },
+  {
+    "iataCompanyCode": "OK-dis",
+    "airlineName": "",
+    "url": "logo_desact_OK.svg"
+  },
+  {
+    "iataCompanyCode": "PS-dis",
+    "airlineName": "",
+    "url": "logo_desact_PS.svg"
+  },
+  {
+    "iataCompanyCode": "PU-dis",
+    "airlineName": "",
+    "url": "logo_desact_PU.svg"
+  },
+  {
+    "iataCompanyCode": "PZ-dis",
+    "airlineName": "",
+    "url": "logo_desact_PZ.svg"
+  },
+  {
+    "iataCompanyCode": "QF-dis",
+    "airlineName": "Qatas",
+    "url": "logo_desact_QF.svg"
+  },
+  {
+    "iataCompanyCode": "QR-dis",
+    "airlineName": "",
+    "url": "logo_desact_QR.svg"
+  },
+  {
+    "iataCompanyCode": "RB-dis",
+    "airlineName": "",
+    "url": "logo_desact_RB.svg"
+  },
+  {
+    "iataCompanyCode": "RF-dis",
+    "airlineName": "Renfe tren",
+    "url": "logo_desact_RF.svg"
+  },
+  {
+    "iataCompanyCode": "RJ-dis",
+    "airlineName": "Royal Jordanian",
+    "url": "logo_desact_RJ.svg"
+  },
+  {
+    "iataCompanyCode": "RO-dis",
+    "airlineName": "",
+    "url": "logo_desact_RO.svg"
+  },
+  {
+    "iataCompanyCode": "S7-dis",
+    "airlineName": "S7 Siberia Airlines",
+    "url": "logo_desact_S7.svg"
+  },
+  {
+    "iataCompanyCode": "SN-dis",
+    "airlineName": "",
+    "url": "logo_desact_SN.svg"
+  },
+  {
+    "iataCompanyCode": "TP-dis",
+    "airlineName": "",
+    "url": "logo_desact_TP.svg"
+  },
+  {
+    "iataCompanyCode": "UL-dis",
+    "airlineName": "",
+    "url": "logo_desact_UL.svg"
+  },
+  {
+    "iataCompanyCode": "VY-dis",
+    "airlineName": "",
+    "url": "logo_desact_VY.svg"
+  },
+  {
+    "iataCompanyCode": "XL-dis",
+    "airlineName": "",
+    "url": "logo_desact_XL.svg"
+  },
+  {
+    "iataCompanyCode": "YW-dis",
+    "airlineName": "Air Nostrum",
+    "url": "logo_desact_YW.svg"
+  },
+  {
+    "iataCompanyCode": "MQ-dis",
+    "airlineName": "American Eagle",
+    "url": "logo_desact_MQ.svg"
+  },
+  {
+    "iataCompanyCode": "MQ",
+    "airlineName": "American Eagle",
+    "url": "logo_pos_MQ.svg"
+  },
+  {
+    "iataCompanyCode": "VW",
+    "airlineName": "Aeromar",
+    "url": "logo_pos_VW.svg"
+  },
+  {
+    "iataCompanyCode": "VW-dis",
+    "airlineName": "Aeromar",
+    "url": "logo_desact_VW.svg"
+  },
+  {
+    "iataCompanyCode": "GK",
+    "airlineName": "Jetstar Japan",
+    "url": "logo_pos_GK.svg"
+  },
+  {
+    "iataCompanyCode": "GK-dis",
+    "airlineName": "Jetstar Japan",
+    "url": "logo_desact_GK.svg"
+  },
+  {
+    "iataCompanyCode": "BT",
+    "airlineName": "Air Baltic",
+    "url": "logo_pos_BT.svg"
+  },
+  {
+    "iataCompanyCode": "BT-dis",
+    "airlineName": "Air Baltic",
+    "url": "logo_desact_BT.svg"
+  },
+  {
+    "iataCompanyCode": "AS",
+    "airlineName": "Alaskan",
+    "url": "logo_pos_AS.svg"
+  },
+  {
+    "iataCompanyCode": "HU-dis",
+    "airlineName": "Hainan",
+    "url": "logo_desact_HU.svg"
+  },
+  {
+    "iataCompanyCode": "HU",
+    "airlineName": "Hainan",
+    "url": "logo_pos_HU.svg"
+  },
+  {
+    "iataCompanyCode": "KA-dis",
+    "airlineName": "Cathay Dragon",
+    "url": "logo_desact_KA.svg"
+  },
+  {
+    "iataCompanyCode": "KA",
+    "airlineName": "Cathay Dragon",
+    "url": "logo_pos_KA.svg"
+  },
+  {
+    "iataCompanyCode": "CJ",
+    "airlineName": "BA CityFlyer",
+    "url": "logo_pos_CJ.svg"
+  },
+  {
+    "iataCompanyCode": "NZ",
+    "airlineName": "Air New Zealand",
+    "url": "logo_pos_NZ.svg"
+  },
+  {
+    "iataCompanyCode": "ZP",
+    "airlineName": "Paramair",
+    "url": "logo_pos_ZP.svg"
+  },
+  {
+    "iataCompanyCode": "P5",
+    "airlineName": "Air Belgium",
+    "url": "logo_pos_P5.svg"
+  },
+  {
+    "iataCompanyCode": "KF",
+    "airlineName": "Aerorepública",
+    "url": "logo_pos_KF.svg"
+  },
+  {
+    "iataCompanyCode": "FJ",
+    "airlineName": "Fiji Airways",
+    "url": "logo_pos_FJ.svg"
+  },
+  {
+    "iataCompanyCode": "TA",
+    "airlineName": "Taca Internacional",
+    "url": "logo_pos_TA.svg"
+  },
+  {
+    "iataCompanyCode": "SA",
+    "airlineName": "South Africa",
+    "url": "logo_pos_SA.svg"
+  },
+  {
+    "iataCompanyCode": "OB",
+    "airlineName": "Boliviana de Aviación",
+    "url": "logo_pos_OB.svg"
+  },
+  {
+    "iataCompanyCode": "CI",
+    "airlineName": "China Airlines",
+    "url": "logo_pos_CI.svg"
+  },
+  {
+    "iataCompanyCode": "X9",
+    "airlineName": "JSC 'Avion Express'",
+    "url": "logo_pos_LO.svg"
+  },
+  {
+    "iataCompanyCode": "X9-dis",
+    "airlineName": "JSC 'Avion Express'",
+    "url": "logo_desact_LO.svg"
+  },
+  {
+    "iataCompanyCode": "AM",
+    "airlineName": "Aeromexico",
+    "url": "logo_pos_AM.svg"
+  },
+  {
+    "iataCompanyCode": "AM-dis",
+    "airlineName": "Aeromexico",
+    "url": "logo_desact_AM.svg"
+  }
+]

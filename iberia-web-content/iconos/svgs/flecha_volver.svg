@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>flecha_volver</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flecha_volver" fill="#000000">
+            <path d="M6.62714,13.64858 L9.72494,13.64858 L6.60662,9.45314 C7.1333,9.46682 7.66178,9.47114 8.18666,9.47114 C10.18322,9.47114 12.15818,9.3815 13.8995,9.20834 L13.95422,9.20258 L13.95494,6.79418 L13.8995,6.78806 C12.15674,6.61742 10.18322,6.52526 8.17982,6.52526 C7.65926,6.52526 7.13186,6.5321 6.60662,6.5447 L9.72494,2.35142 L6.62606,2.35142 L2.04506,7.9991 L6.62714,13.64858"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,237 @@
+{
+    "IBCOSE_REGISTER_LINK": {
+        "uri": "/iberiaplus/register/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBCOSE_FORGOT_PIN_LINK": {
+        "uri": "/web/forgetPinIBCOSE.do",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "GREY_HEADER_LINK_NAME": {
+        "uri": "/iberiaplus/my-iberia-plus/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "GREY_HEADER_LINK_AVIOS": {
+        "uri": "/iberiaplus/my-avios/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "GREY_HEADER_REGISTRATION": {
+        "uri": "/web/userRegistration.do?tabId=&menuId=IBHMPA",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "HEADER_ONE_WORLD": {
+        "uri": "/nuestras-alianzas/oneworld",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBCOAC_MMB_REQUEST_BILL_LINK": {
+        "uri": "/facturas/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBCOAC_MMB_REDUCED_MOBILITY_LINK": {
+        "uri": "/fly-with-iberia/special-needs/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "OLD_MANAGE_MY_BOOKING_APP": {
+        "uri": "/web/retrievePNR.do",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "CHECKIN_ONLINE_APP": {
+        "uri": "/online-checkin/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBTRA_MMB_HOTEL_LINK": {
+        "uri": "http://hotel.iberia.com/index.html?aid=380266;lang=en;label=ibeair-homepage-sb",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "IBTRA_MMB_CAR_LINK": {
+        "uri": "http://production.rent-at-avis.com/avisonline/es/avis_iberia.nsf/c/gb+home",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "IBTRA_MMB_INSURANCE_LINK": {
+        "uri": "https://www.magroup-online.com/wl/iba/es/?utm_source=Web&utm_medium=Banner&utm_campaign=MMB",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "IBSPEC_MMB_TERM_AND_CONDITIONS_LINK": {
+        "uri": "/web/program.do?menuId=CONDIC",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "IBSPEC_MMB_CONDITIONS_OF_CONTRACT_LINK": {
+        "uri": "/web/program.do?menuId=CONBIL",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "CANCEL_SPECIAL_NEEDS_MODAL_LINK": {
+        "uri": "/web/program.do?menuId=MOAIRP2",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "IBERIA_DESTINATIONS_IMAGES": {
+        "uri": "/wcs/imagenes/destinos/backGround/",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "ACCESSIBILITY_LINK": {
+        "uri": "/accessibility-statement/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "DATA_PROTECTION_POLICY_LINK": {
+        "uri": "/privacy-information/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "TWITTER_LINK": {
+        "uri": "https://twitter.com/iberia_en",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "CHANGE_REFUND_CONDITIONS_LINK": {
+        "uri": "/service-fees/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "SEATS_CONDITIONS_LINK": {
+        "uri": "/seat-reservation/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "BAGGAGE_CONDITIONS_LINK": {
+        "uri": "/baggage/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "TERMS_CONDITIONS_LINK": {
+        "uri": "/conditions-vouchers-discount-codes-gift-cards/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "MMB_PARTNER_LINK_MELIA": {
+        "uri": "https://www.iberia.com/es/en/stopover-in-madrid/mmb/melia/",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "MMB_PARTNER_LINK_BOOKING": {
+        "uri": "https://hotel.iberia.com/searchresults.html?aid=380266&ss=madrid&label=pagedesthotel-ban-380266-destination_madridstopover",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "MMB_PARTNER_LINK_VOUCHER_IBERIA": {
+        "uri": "https://www.iberia.com/es/en/stopover-in-madrid/mmb/discount-voucher-iberia/",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "MMB_PARTNER_LINK_TRANSPORTE_PUBLICO": {
+        "uri": "https://www.iberia.com/es/en/stopover-in-madrid/intercity-transport/",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "MMB_PARTNER_LINK_ALSA_VTC": {
+        "uri": "https://iberia.ibetours.com/transfers/",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "MMB_PARTNER_LINK_AVIS": {
+        "uri": "http://www.rentacar-iberia.com/en/?CID=pcagben-20190604-ibcom-stopovermadrid-002",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "MMB_PARTNER_LINK_THYSSEN_BORNEMISZA": {
+        "uri": "https://www.iberia.com/es/en/stopover-in-madrid/mmb/thyssen/",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "MMB_PARTNER_LINK_ALSA_PRADO": {
+        "uri": "https://iberia.ibetours.com/prado-museum/",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "MMB_PARTNER_LINK_ALSA_EXPERIENCIAS": {
+        "uri": "https://iberia.ibetours.com/",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "MMB_PARTNER_LINK_MAHOU_CERVECISTA": {
+        "uri": "https://www.iberia.com/es/en/stopover-in-madrid/mmb/la-cervecista/",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "MMB_PARTNER_LINK_VIATOR_FLAMENCO": {
+        "uri": "https://www.partner.viator.com/es/10631/tours/Madrid/Flamenco-Show-in-Madrid-with-Hotel-Pick-Up/d566-16901P22",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "MMB_PARTNER_LINK_VIATOR_GASTRO": {
+        "uri": "https://www.partner.viator.com/es/10631/tours/Madrid/Madrid-Tapas-and-Wine-Tasting-Tour/d566-5830WINETAPAS",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "MMB_PARTNER_LINK_VIATOR_MADRID": {
+        "uri": "https://www.partner.viator.com/en/10632/Madrid/d566-ttd",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "MMB_PARTNER_LINK_CORTE_INGLES": {
+        "uri": "https://www.iberia.com/es/en/stopover-in-madrid/mmb/el-corte-ingles/",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "MMB_PARTNER_LINK_HOLAFLY": {
+        "uri": "https://www.iberia.com/es/en/stopover-in-madrid/mmb/holafly/",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "MMB_PARTNER_LINK_BOB": {
+        "uri": "https://bob.io/holamadrid/?utm_source=iberia&utm_medium=referral&utm_content=standard_all-languages_all-routes_hola-madrid-landing_ad1&utm_campaign=airline_all-services_na_iberia-hola-madrid_may20",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "MMB_PARTNER_LINK_BIDUZZ": {
+        "uri": "https://preb.iberia.es/es/en/biduzz/",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "MMB_PARTNER_LINK_DUFRY": {
+        "uri": "https://www.iberia.com/es/en/stopover-in-madrid/mmb/duty-free/",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "VOUCHER_KNOW_MORE": {
+        "uri": "/en/voucher/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "VOUCHER_KNOW_MORE_FLEX": {
+        "uri": "/en/cond-voucher-part/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "PASSENGER_RIGHTS_LINK": {
+        "uri": "/passengers-rights/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "DISRUPTION_REFUND_EXTERNAL_LINK": {
+        "uri": "https://contacto.iberia.com/solicitudbono/",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "SPECIAL_NEED_DOG_GUIDE_INFO": {
+        "uri": "/en/assistance-dog/",
+        "needsMarket": true,
+        "needsOrigin": true
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "GREY_HEADER_LINK_NAME": {
+        "uri": "/iberiaplus/mi-iberia-plus/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "GREY_HEADER_LINK_AVIOS": {
+        "uri": "/iberiaplus/mis-avios/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "GREY_HEADER_REGISTRATION": {
+        "uri": "/iberiaplus/registrese/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "HEADER_ONE_WORLD": {
+        "uri": "/nuestras-alianzas/oneworld",
+        "needsMarket": true
+    },
+    "LOGIN_MODULE_FORGOT_PIN_LINK": {
+        "uri": "/web/forgetPinIBCOSE.do",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "IB_PLUS_USER_PAGE": {
+        "uri": "/web/obsmenu.do?menuId=IBMIBP",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "ACCESSIBILITY_LINK": {
+        "uri": "/declaracion-de-accesibilidad/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_LOGGED_REDEMPTION_BOOKING": {
+        "uri": "/buscador-vuelos-con-avios/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_ANONYMOUS_REDEMPTION_BOOKING": {
+        "uri": "/web/affinityTwentyBooking.do",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "IBERIA_NEW_REDEMPTION_BOOKING": {
+        "uri": "/flights/",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "IBERIA_REDEMPTION_SEARCH": {
+        "uri": "/buscador-vuelos-con-avios/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_DESTINATIONS_IMAGES": {
+        "uri": "/wcs/imagenes/destinos/calculadoraAvios/",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "DATA_PROTECTION_POLICY_LINK": {
+        "uri": "/informacion-sobre-privacidad/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_NEW_LOGIN": {
+        "uri": "/es/login/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_NEW_REDEMPTION_SEARCH_ENGINE": {
+        "uri": "/buscador-vuelos-con-avios/",
+        "needsMarket": true,
+        "needsOrigin": true
+    }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>tarjeta_de_credito</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tarjeta_de_credito" fill="#000000">
+            <path d="M13.66442,3.9896 L2.33522,3.9896 C2.10338,3.9896 1.91582,4.1768 1.91582,4.4108 L1.91582,11.5928 C1.91582,11.8232 2.10338,12.0104 2.33522,12.0104 L13.66442,12.0104 C13.89518,12.0104 14.08418,11.8232 14.08418,11.5928 L14.08418,4.4108 C14.08418,4.1768 13.89518,3.9896 13.66442,3.9896 L13.66442,3.9896 Z M3.17438,6.0164 L12.82526,6.0164 L12.82526,5.2496 L3.17438,5.2496 L3.17438,6.0164 Z M3.17438,10.754 L12.82526,10.754 L12.82526,7.6976 L3.17438,7.6976 L3.17438,10.754 Z"></path>
+        </g>
+    </g>
+</svg>

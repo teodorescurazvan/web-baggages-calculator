@@ -1,0 +1,77 @@
+{
+    "IB_RECOVER_PASSWORD_LINK": {
+        "uri": "/iberiaplus/passwort-wiederherstellen/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IB_PERMANENT_BLOCKED_LINK": {
+        "uri": "/benutzer-gesperrt/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IB_TEMPORARILY_BLOCKED_LINK": {
+        "uri": "/benutzer-vorubergehend-gesperrt/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IB_RESET_PASSWORD_LINK": {
+        "uri": "/iberiaplus/passwort-zurucksetzen/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IB_INCOMPLETE_PROFILE": {
+        "uri": "/iberiaplus/melden-sie-sich-jetzt-an/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "TERMS_CONDITIONS_LINK": {
+        "uri": "/rabattgutscheine/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "CHECKIN_ONLINE_APP": {
+        "uri": "/online-checkin/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_CONDITIONS_LINK": {
+        "uri": "/de/iberiaplus/conditions/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "DATA_PROTECTION_POLICY_LINK": {
+        "uri": "/datenschutzinformationen/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "SPECIAL_NEED_DOG_GUIDE_INFO": {
+        "uri": "/de/assistenzhund/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "UPGRADE_IBERIA_ZERO": {
+        "uri": "/iberia/deine-iberia/#!/IRUPG",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_ZERO_PERSONAL_AREA": {
+        "uri": "/iberia/deine-iberia/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_REGISTER_CONDITIONS": {
+        "uri": "/anmeldebedingungen/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_CARS_HOTELS": {
+        "uri": "/hotels-und-mietwagen-mit-avios/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "LOGIN_MODULE_REGISTER_LINK": {
+        "uri": "/iberia/melden-sie-sich-jetzt-an/",
+        "needsMarket": true,
+        "needsOrigin": true
+    }
+}

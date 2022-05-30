@@ -1,0 +1,47 @@
+[
+  {
+    "code": "BCN",
+    "extension": ".jpg",
+    "url": "barcelona/disponibilidad_barcelona_"
+  },
+  {
+    "code": "LON",
+    "extension": ".jpg",
+    "url": "londres/disponibilidad_londres_"
+  },
+  {
+    "code": "MAD",
+    "extension": ".jpg",
+    "url": "madrid/disponibilidad_madrid_"
+  },
+  {
+    "code": "AGP",
+    "extension": ".jpg",
+    "url": "malaga/disponibilidad_malaga_"
+  },
+  {
+    "code": "PMI",
+    "extension": ".jpg",
+    "url": "mallorca/disponibilidad_mallorca_"
+  },
+  {
+    "code": "NYC",
+    "extension": ".jpg",
+    "url": "NY/disponibilidad_NY_"
+  },
+  {
+    "code": "PAR",
+    "extension": ".jpg",
+    "url": "paris/disponibilidad_paris_"
+  },
+  {
+    "code": "TCI",
+    "extension": ".jpg",
+    "url": "tenerife/disponibilidad_tenerife_"
+  },
+  {
+    "code": "ROM",
+    "extension": ".jpg",
+    "url": "roma/disponibilidad_roma_"
+  }
+]

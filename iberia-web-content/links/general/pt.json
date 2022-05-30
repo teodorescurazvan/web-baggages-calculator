@@ -1,0 +1,77 @@
+{
+    "IB_RECOVER_PASSWORD_LINK": {
+        "uri": "/iberiaplus/recuperar-senha/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IB_PERMANENT_BLOCKED_LINK": {
+        "uri": "/pt/usuario-bloqueado/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IB_TEMPORARILY_BLOCKED_LINK": {
+        "uri": "/usuario-bloqueado-temporariamente/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IB_RESET_PASSWORD_LINK": {
+        "uri": "/iberiaplus/redefinir-senha/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IB_INCOMPLETE_PROFILE": {
+        "uri": "/iberiaplus/registe-se/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "TERMS_CONDITIONS_LINK": {
+        "uri": "/vales-desconto/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "CHECKIN_ONLINE_APP": {
+        "uri": "/autocheckin-online.pt/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_CONDITIONS_LINK": {
+        "uri": "/pt/iberiaplus/conditions/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "DATA_PROTECTION_POLICY_LINK": {
+        "uri": "/informacoes-de-privacidade/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "SPECIAL_NEED_DOG_GUIDE_INFO": {
+        "uri": "/pt/cao-de-companhia/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "UPGRADE_IBERIA_ZERO": {
+        "uri": "/iberia/seu-iberia/#!/IRUPG",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_ZERO_PERSONAL_AREA": {
+        "uri": "/iberia/seu-iberia/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_REGISTER_CONDITIONS": {
+        "uri": "/condicoes-registro/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_CARS_HOTELS": {
+        "uri": "/hoteis-e-carros-com-avios/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "LOGIN_MODULE_REGISTER_LINK": {
+        "uri": "/iberia/registe-se/",
+        "needsMarket": true,
+        "needsOrigin": true
+    }
+}

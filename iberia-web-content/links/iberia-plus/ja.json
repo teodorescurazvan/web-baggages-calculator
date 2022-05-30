@@ -1,0 +1,182 @@
+{
+    "PASSENGER_INFO_IN_ADVANCE_LINK": {
+        "uri": "/ja/advance-passenger-information-api/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "EMAIL_EXAMPLE_LINK": {
+        "uri": "/ibcomv3/content/ibplus/ibplus_ejemplo_mail.jpg",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "CONFIDENTIALITY_AND_SECURITY_LINK": {
+        "uri": "/legal-information/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "MANAGEMENT_OF_PERSONAL_DATA_LINK": {
+        "uri": "/management-of-personal-data/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "LOGIN_FORGOT_PIN_LINK": {
+        "uri": "/iberiaplus/recover-password/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "LOGIN_REGISTER_LINK": {
+        "uri": "/ja/iberiaplus/register/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "DATA_PROTECTION_POLICY_LINK": {
+        "uri": "/ja/privacy-information/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_CONDITIONS_LINK": {
+        "uri": "/ja/iberiaplus/conditions/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_LINK": {
+        "uri": "/ja/iberiaplus/my-iberia-plus/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_LINK_PUBLIC": {
+        "uri": "/ja/all-iberiaplus/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_APP_LINK": {
+        "uri": "/ja/iberia-app/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_PRINT_CARD_LINK": {
+        "uri": "/ja/iberiaplus/my-card/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_KIDS_LINK": {
+        "uri": "/ja/iberiaplus/kids/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "PERSONAL_DATA_LINK": {
+        "uri": "/ja/iberiaplus/personal-details/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_CREDIT_CARDS_LINK": {
+        "uri": "/iberiaplus/my-credit-cards",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_NEW_LOGIN": {
+        "uri": "/ja/login/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PERMANENT_BLOCKED": {
+        "uri": "/ja/user-blocked/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_TEMPORARILY_BLOCKED": {
+        "uri": "/ja/user-temporarily-blocked/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_BLOCKED": {
+        "uri": "/user-blocked/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_PARTNERS_OFFERS": {
+        "uri": "/ja/iberiaplus/search-partner/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_BENEFITS_CLASSIC": {
+        "uri": "/ja/iberiaplus/classic/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_BENEFITS_PLATA": {
+        "uri": "/ja/iberiaplus/silver/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_BENEFITS_GOLD": {
+        "uri": "/ja/iberiaplus/gold/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_BENEFITS_PLATINO": {
+        "uri": "/ja/iberiaplus/platinum/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_BENEFITS_INFINITA": {
+        "uri": "/ja/iberiaplus/infinita/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_BENEFITS_INFINITA_PRIME": {
+        "uri": "/ja/iberiaplus/infinita-prime/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_DOUBTS_LINK": {
+        "uri": "/ja/customer-service/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_AVIOS_LINK": {
+        "uri": "/iberiaplus/my-avios/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_UNSCORED_AVIOS_LINK": {
+        "uri": "/ja/iberiaplus/missing-avios/claim-your-avios/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_AVIOS_CALCULATOR_LINK": {
+        "uri": "/ja/iberiaplus/use-avios/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_CLAIMS_LINK": {
+        "uri": "/ja/customer-relations/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_COMBINE_AVIOS_LINK": {
+        "uri": "/ja/combine-my-avios/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "SPECIAL_NEED_DOG_GUIDE_INFO": {
+        "uri": "/ja/assistance-dog/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_REGISTER_CONDITIONS": {
+        "uri": "/ja/registration-conditions/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "SEARCH_FLIGHT_LINK": {
+        "uri": "/ja/flight-search-engine/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "REQUEST_BILL_LINK": {
+        "uri": "/facturas/",
+        "needsMarket": true,
+        "needsOrigin": true
+    }
+}

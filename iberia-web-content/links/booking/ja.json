@@ -1,0 +1,157 @@
+{
+    "LOGIN_MODULE_FORGOT_PIN_LINK": {
+        "uri": "/ja/iberiaplus/recover-password/",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "IBPURC_PAYMENTS_REJECTED_CARD": {
+        "uri": "/ja/contact/",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "IBPURC_PAYMENTS_CANCEL_ORDER_REDIRECT": {
+        "uri": "",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "IB_PLUS_USER_PAGE": {
+        "uri": "/ja/iberiaplus/my-iberia-plus/",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "IB_SEARCH_ENGINE": {
+        "uri": "/flights/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "PROMO_TRAVEL": {
+        "uri": "https://www.magroup-online.com/WL/IBA/ES/es",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "PROMO_HOTEL": {
+        "uri": "http://hotel.iberia.com/index.html?aid=380264;lang=ja",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "PROMO_RENT_CAR": {
+        "uri": "https://www.rentacar-iberia.com/en/",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "MOD_INFOCK_LINK_EQBA": {
+        "uri": "/jba/ba/en_GB/baggage/bagchk.html",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "MOD_INFOCK_LINK_EQAA": {
+        "uri": "/jba/ay/en_US/baggage/jbaCheckedBaggage.html",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "MOD_INFOCK_LINK_EQAY": {
+        "uri": "/jba/ay/en_GB/baggage/jbaCheckedBaggage.html",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "CHANGE_SEARCH_LINK": {
+        "uri": "/web/obsmenu.do?language=ja&country=JP&quadrigam=IBADVS&quickaccess=true",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "SEATS_CONDITIONS_LINK": {
+        "uri": "/ja/seat-reservation/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "CHANGE_REFUND_CONDITIONS_LINK": {
+        "uri": "/service-fees/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "BAGGAGE_CONDITIONS_LINK": {
+        "uri": "/baggage/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "FOOD_LINK": {
+        "uri": "/on-board/on-board-menu/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "ACCESSIBILITY_LINK": {
+        "uri": "/ja/accessibility-statement/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "TERMS_CONDITIONS_LINK": {
+        "uri": "/ja/conditions-vouchers-discount-codes-gift-cards/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "TWITTER_LINK": {
+        "uri": "https://twitter.com/iberia_en",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "CHECKIN_LINK": {
+        "uri": "/autocheckin-online_ja/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "DATA_PROTECTION_POLICY_LINK": {
+        "uri": "/ja/privacy-information/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "QUOTAS": {
+        "uri": "/deferred-payment/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "BUY_AVIOS": {
+        "uri": "/ja/iberiaplus/purchasing-transferring-avios/ ",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "IBERIA_NEW_REDEMPTION_SEARCH_ENGINE": {
+        "uri": "/ja/search-engine-flights-with-avios/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_NEW_ONB_REDEMPTION_SEARCH_ENGINE": {
+        "uri": "/ja/search-engine-flights-with-points/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "OLD_REDEMPTION_FLOW": {
+        "uri": "/ja/search-engine-flights-with-avios/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "OLD_REDEMPTION_ONB_FLOW": {
+        "uri": "/search-engine-flights-with-points/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_NEW_LOGIN": {
+        "uri": "/ja/login/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_ONB_LOGIN": {
+        "uri": "/integration/obsso/login/",
+        "needsMarket": false,
+        "needsOrigin": false
+    },
+    "IBERIA_MULTIPLE_TRACKS_SEARCH_ENGINE": {
+        "uri": "/ja/flight-search-engine/multiple-legs/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "SPECIAL_NEED_DOG_GUIDE_INFO": {
+        "uri": "/ja/assistance-dog/",
+        "needsMarket": true,
+        "needsOrigin": true
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "DANGER_ARTICLES_LINK": {
+        "uri": "/equipajes/articulos-peligrosos/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "ACCES_IBCOSE_MAS_INFO2_LINK": {
+        "uri": "/informacion-checkin/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "CHECKIN_LINK": {
+        "uri": "/autocheckin-online/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "BIOMETRIC_LANDING_LINK": {
+        "uri": "/es/embarque/reconocimiento-facial/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "GREY_HEADER_LINK_NAME": {
+        "uri": "/iberiaplus/mi-iberia-plus/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "GREY_HEADER_LINK_AVIOS": {
+        "uri": "/iberiaplus/mis-avios/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "GREY_HEADER_REGISTRATION": {
+        "uri": "/iberiaplus/registrese/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_NEW_LOGIN": {
+        "uri": "/es/login/",
+        "needsMarket": true,
+        "needsOrigin": true
+    }
+}

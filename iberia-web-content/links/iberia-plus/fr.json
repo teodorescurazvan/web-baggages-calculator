@@ -1,0 +1,182 @@
+{
+    "PASSENGER_INFO_IN_ADVANCE_LINK": {
+        "uri": "/information-anticipee-de-passager-api/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "EMAIL_EXAMPLE_LINK": {
+        "uri": "/ibcomv3/content/ibplus/ibplus_ejemplo_mail.jpg",
+        "needsMarket": false,
+        "needsOrigin": true
+    },
+    "CONFIDENTIALITY_AND_SECURITY_LINK": {
+        "uri": "/avis-legal/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "MANAGEMENT_OF_PERSONAL_DATA_LINK": {
+        "uri": "/gestion-des-donnees-personnelles/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "LOGIN_FORGOT_PIN_LINK": {
+        "uri": "/iberiaplus/recuperer-mot-de-passe/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "LOGIN_REGISTER_LINK": {
+        "uri": "/iberiaplus/inscrivez-vous/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "DATA_PROTECTION_POLICY_LINK": {
+        "uri": "/informations-sur-la-confidentialite/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_CONDITIONS_LINK": {
+        "uri": "/fr/iberiaplus/conditions/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_LINK": {
+        "uri": "/fr/iberiaplus/my-iberia-plus/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_LINK_PUBLIC": {
+        "uri": "/toute-iberiaplus/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_APP_LINK": {
+        "uri": "/fr/iberia-app/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_PRINT_CARD_LINK": {
+        "uri": "/iberiaplus/ma-carte/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_KIDS_LINK": {
+        "uri": "/fr/iberiaplus/kids/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "PERSONAL_DATA_LINK": {
+        "uri": "/iberiaplus/details-personnels/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_CREDIT_CARDS_LINK": {
+        "uri": "/iberiaplus/my-credit-cards",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_NEW_LOGIN": {
+        "uri": "/fr/login/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PERMANENT_BLOCKED": {
+        "uri": "/utilisateur-bloque/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_TEMPORARILY_BLOCKED": {
+        "uri": "/utilisateur-bloque-temporairement/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_BLOCKED": {
+        "uri": "/utilisateur-bloque/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_PARTNERS_OFFERS": {
+        "uri": "/iberiaplus/recherche-partenaire/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_BENEFITS_CLASSIC": {
+        "uri": "/iberiaplus/classique/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_BENEFITS_PLATA": {
+        "uri": "/iberiaplus/argent/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_BENEFITS_GOLD": {
+        "uri": "/iberiaplus/or/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_BENEFITS_PLATINO": {
+        "uri": "/iberiaplus/platine/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_BENEFITS_INFINITA": {
+        "uri": "/fr/iberiaplus/infinita/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_BENEFITS_INFINITA_PRIME": {
+        "uri": "/fr/iberiaplus/infinita-prime/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_DOUBTS_LINK": {
+        "uri": "/service-clients/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_AVIOS_LINK": {
+        "uri": "/iberiaplus/my-avios/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_UNSCORED_AVIOS_LINK": {
+        "uri": "/iberiaplus/avios-non-comptabilises/demandez-vos-avios/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_AVIOS_CALCULATOR_LINK": {
+        "uri": "/iberiaplus/profiter-avios/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_PLUS_CLAIMS_LINK": {
+        "uri": "/relations-clients/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_COMBINE_AVIOS_LINK": {
+        "uri": "/combiner-mes-avios/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "SPECIAL_NEED_DOG_GUIDE_INFO": {
+        "uri": "/fr/chien-d-assistance/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "IBERIA_REGISTER_CONDITIONS": {
+        "uri": "/conditions-inscription/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "SEARCH_FLIGHT_LINK": {
+        "uri": "/chercheur-vols/",
+        "needsMarket": true,
+        "needsOrigin": true
+    },
+    "REQUEST_BILL_LINK": {
+        "uri": "/facturas/",
+        "needsMarket": true,
+        "needsOrigin": true
+    }
+}

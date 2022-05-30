@@ -1,0 +1,157 @@
+[
+    {
+        "cityCode": "AAL",
+        "cityDescription": "Aalborg",
+        "url": "AAL_720x384.jpg"
+    },
+    {
+        "cityCode": "ABC",
+        "cityDescription": "Albacete",
+        "url": "ABC_720x384.jpg"
+    },
+    {
+        "cityCode": "ABZ",
+        "cityDescription": "Aberdeen",
+        "url": "ABZ_720x384.jpg"
+    },
+    {
+        "cityCode": "ACC",
+        "cityDescription": "Accra",
+        "url": "ACC_720x384.jpg"
+    },
+    {
+        "cityCode": "ACE",
+        "cityDescription": "Lanzarote",
+        "url": "ACE_720x384.jpg"
+    },
+    {
+        "cityCode": "AGA",
+        "cityDescription": "Agadir",
+        "url": "AGA_720x384.jpg"
+    },
+    {
+        "cityCode": "AGP",
+        "cityDescription": "Málaga",
+        "url": "AGP_720x384.jpg"
+    },
+    {
+        "cityCode": "ALC",
+        "cityDescription": "Alicante",
+        "url": "ALC_720x384.jpg"
+    },
+    {
+        "cityCode": "ALG",
+        "cityDescription": "Algiers",
+        "url": "ALG_720x384.jpg"
+    },
+    {
+        "cityCode": "AMM",
+        "cityDescription": "Amman",
+        "url": "AMM_720x384.jpg"
+    },
+    {
+        "cityCode": "AMS",
+        "cityDescription": "Amsterdam",
+        "url": "AMS_720x384.jpg"
+    },
+    {
+        "cityCode": "ASU",
+        "cityDescription": "Asunción",
+        "url": "ASU_720x384.jpg"
+    },
+    {
+        "cityCode": "ATH",
+        "cityDescription": "Athens",
+        "url": "ATH_720x384.jpg"
+    },
+    {
+        "cityCode": "ATL",
+        "cityDescription": "Atlanta",
+        "url": "ATL_720x384.jpg"
+    },
+    {
+        "cityCode": "BAH",
+        "cityDescription": "Manama",
+        "url": "BAH_720x384.jpg"
+    },
+    {
+        "cityCode": "BCN",
+        "cityDescription": "Barcelona",
+        "url": "BCN_720x384.jpg"
+    },
+    {
+        "cityCode": "BER",
+        "cityDescription": "Berlin",
+        "url": "BER_720x384.jpg"
+    },
+    {
+        "cityCode": "BES",
+        "cityDescription": "Brest/Guipavas",
+        "url": "BES_720x384.jpg"
+    },
+    {
+        "cityCode": "BHZ",
+        "cityDescription": "Belo Horizonte",
+        "url": "BHZ_720x384.jpg"
+    },
+    {
+        "cityCode": "BIO",
+        "cityDescription": "Bilbao",
+        "url": "BIO_720x384.jpg"
+    },
+    {
+        "cityCode": "BIQ",
+        "cityDescription": "Biarritz",
+        "url": "BIQ_720x384.jpg"
+    },
+    {
+        "cityCode": "LON",
+        "cityDescription": "London",
+        "url": "LON_720x384.jpg"
+    },
+    {
+        "cityCode": "MAD",
+        "cityDescription": "Madrid",
+        "url": "MAD_720x384.jpg"
+    },
+    {
+        "cityCode": "NYC",
+        "cityDescription": "New York",
+        "url": "NYC_720x384.jpg"
+    },
+    {
+        "cityCode": "PAR",
+        "cityDescription": "Paris",
+        "url": "PAR_720x384.jpg"
+    },
+    {
+        "cityCode": "PMI",
+        "cityDescription": "Palma De Mallorca",
+        "url": "PMI_720x384.jpg"
+    },
+    {
+        "cityCode": "RIO",
+        "cityDescription": "Rio du Janeiro",
+        "url": "RIO_720x384.jpg"
+    },
+    {
+        "cityCode": "ROM",
+        "cityDescription": "Rome",
+        "url": "ROM_720x384.jpg"
+    },
+    {
+        "cityCode": "SVQ",
+        "cityDescription": "Sevilla",
+        "url": "SVQ_720x384.jpg"
+    },
+    {
+        "cityCode": "ELSE",
+        "cityDescription": "else",
+        "url": "GENERICA_720x384.jpg"
+    },
+    {
+        "cityCode": "ELSE",
+        "cityDescription": "else",
+        "url": "GENERICA_720x384.jpg"
+    }
+]

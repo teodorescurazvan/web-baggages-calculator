@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>e_carrito</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="e_carrito" fill="#000000">
+            <path d="M5.64812,5.3846 L12.21668,5.3846 L11.23856,9.3266 L5.55056,9.3266 L4.55456427,5.6582 L3.78332,5.6582 L3.78332,4.895 L5.64812,4.895 L5.64812,5.3846 Z M7.2314,10.3778 C7.2314,10.781 6.90524,11.105 6.50276,11.105 C6.101,11.105 5.77448,10.781 5.77448,10.3778 C5.77448,9.9746 6.101,9.6506 6.50276,9.6506 C6.90524,9.6506 7.2314,9.9746 7.2314,10.3778 Z M11.03588,10.3778 C11.03588,10.781 10.71008,11.105 10.30724,11.105 C9.90512,11.105 9.5786,10.781 9.5786,10.3778 C9.5786,9.9746 9.90512,9.6506 10.30724,9.6506 C10.71008,9.6506 11.03588,9.9746 11.03588,10.3778 Z"></path>
+        </g>
+    </g>
+</svg>

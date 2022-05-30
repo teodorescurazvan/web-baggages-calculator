@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>flecha_1_abajo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="flecha_1_abajo" fill="#231F20">
+            <path d="M6.50062916,8 L10.6290232,3.87163828 C10.7237693,3.77689217 10.7237693,3.62327345 10.6290232,3.52855969 L10.1715636,3.07106766 C10.1260828,3.0255546 10.0643636,3 10.0000243,3 C9.9356849,3 9.87396569,3.0255546 9.82848497,3.07106766 L5.07105958,7.82846071 C4.97631347,7.92320681 4.97631347,8.07682554 5.07105958,8.17153929 L9.82845262,12.9289323 C9.87393334,12.9744454 9.93565255,13 9.99999191,13 C10.0643313,13 10.1260505,12.9744454 10.1715312,12.9289323 L10.6289909,12.4714403 C10.723737,12.3766942 10.723737,12.2230755 10.6289909,12.1283617 L6.50062916,8 L6.50062916,8 Z" id="Shape" transform="translate(7.850041, 8.000000) scale(-1, 1) rotate(-90.000000) translate(-7.850041, -8.000000) "></path>
+        </g>
+    </g>
+</svg>

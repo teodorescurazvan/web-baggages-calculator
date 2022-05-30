@@ -1,0 +1,97 @@
+[
+  {
+    "description": "American Express",
+    "cardTypeId": "16",
+    "name": "ico-americanexpress.svg"
+  },
+  {
+    "description": "American Express Banco Popular particular",
+    "cardTypeId": "124",
+    "name": "ico-americanexpress.svg"
+  },
+  {
+    "description": "American Express empresa",
+    "cardTypeId": "103",
+    "name": "ico-americanexpress.svg"
+  },
+  {
+    "description": "American Express Iberia Cards particular",
+    "cardTypeId": "113",
+    "name": "ico-americanexpress.svg"
+  },
+  {
+    "description": "American Express mercado Italia",
+    "cardTypeId": "2",
+    "name": "ico-americanexpress.svg"
+  },
+  {
+    "description": "Carte Blanche",
+    "cardTypeId": "6",
+    "name": "ico-carteblanche.svg"
+  },
+  {
+    "description": "Diners Club",
+    "cardTypeId": "4",
+    "name": "ico-dinersclub.svg"
+  },
+  {
+    "description": "MasterCard empresa",
+    "cardTypeId": "105",
+    "name": "ico-mastercard.svg"
+  },
+  {
+    "description": "MasterCard particular",
+    "cardTypeId": "112",
+    "name": "ico-mastercard.svg"
+  },
+  {
+    "description": "MasterCard mercado Italia",
+    "cardTypeId": "5",
+    "name": "ico-mastercard.svg"
+  },
+  {
+    "description": "Resto de American Express",
+    "cardTypeId": "123",
+    "name": "ico-americanexpress.svg"
+  },
+  {
+    "description": "UATP/Airplus",
+    "cardTypeId": "3",
+    "name": "ico-uatp.svg"
+  },
+  {
+    "description": "Visa empresa",
+    "cardTypeId": "101",
+    "name": "visa-ico.svg"
+  },
+  {
+    "description": "Visa mercado Italia",
+    "cardTypeId": "1",
+    "name": "visa-ico.svg"
+  },
+  {
+    "description": "Visa particular",
+    "cardTypeId": "111",
+    "name": "visa-ico.svg"
+  },
+  {
+    "description": "Master Card Débito",
+    "cardTypeId": "12",
+    "name": "ico-mastercard.svg"
+  },
+  {
+    "description": "Elo",
+    "cardTypeId": "50",
+    "name": "ico-elo.svg"
+  },
+  {
+    "description": "UnionPay",
+    "cardTypeId": "43",
+    "name": "ico-cup.svg"
+  },
+  {
+    "description": "Japan Credit Bureau",
+    "cardTypeId": "42",
+    "name": "ico-jcb.svg"
+  }
+]

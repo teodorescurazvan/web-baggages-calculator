@@ -1,0 +1,12 @@
+{
+    "FLASH_OFFERS_DESTINATIONS_IMAGES":{
+    "uri": "/wcs/imagenes/destinos/city_",
+    "needsMarket": false,
+    "needsOrigin": true
+    },
+    "FLASH_OFFERS_BANNER_IMAGES":{
+        "uri": "/wcs/imagenes/destinos/flashoffers/herobanner_flashoffer_detalle_",
+        "needsMarket": false,
+        "needsOrigin": true
+    }
+}

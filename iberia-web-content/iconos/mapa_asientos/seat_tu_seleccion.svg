@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="77px" height="75px" viewBox="0 0 77 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>asiento / tuseleccion</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="asiento-/-tuseleccion">
+            <polygon id="Path" fill="#A8191A" points="70.746 52.78 74.746 52.78 74.746 73.78 1.746 73.78 1.746 52.78 5.746 52.78 5.746 11.78 70.746 11.78"></polygon>
+            <polygon id="relleno" fill="#D7192D" points="67.746 52.78 67.7439694 14.78 8.746 14.760748 8.746 52.78 8.746 55.78 4.746 55.7770109 4.73113246 70.7774722 71.746 70.720725 71.7557596 55.78 67.746 55.78"></polygon>
+            <rect id="linea" fill="#C51A2C" x="8.75" y="52.7999992" width="58.9900017" height="3"></rect>
+        </g>
+    </g>
+</svg>

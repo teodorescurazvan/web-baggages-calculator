@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>indicador_scroll</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,10.0786888 L21.9080681,0.170542987 C22.1354588,-0.0568476622 22.5041437,-0.0568476622 22.7314567,0.170542987 L23.8294376,1.26844622 C23.938669,1.37759994 24,1.52572604 24,1.68014052 C24,1.83455499 23.938669,1.9826811 23.8294376,2.09183482 L12.4116943,13.5096558 C12.1843037,13.7370464 11.8156187,13.7370464 11.5883057,13.5096558 L0.170562395,2.09191245 C0.0613310388,1.98275873 8.8817842e-14,1.83463263 8.8817842e-14,1.68021815 C8.8817842e-14,1.52580368 0.0613310388,1.37767757 0.170562395,1.26852385 L1.26854326,0.170620621 C1.49593391,-0.056770028 1.86461885,-0.056770028 2.09193186,0.170620621 L12,10.0786888 Z M12,20.0786888 L21.9080681,10.170543 C22.1354588,9.94315234 22.5041437,9.94315234 22.7314567,10.170543 L23.8294376,11.2684462 C23.938669,11.3775999 24,11.525726 24,11.6801405 C24,11.834555 23.938669,11.9826811 23.8294376,12.0918348 L12.4116943,23.5096558 C12.1843037,23.7370464 11.8156187,23.7370464 11.5883057,23.5096558 L0.170562395,12.0919125 C0.0613310388,11.9827587 8.8817842e-14,11.8346326 8.8817842e-14,11.6802182 C8.8817842e-14,11.5258037 0.0613310388,11.3776776 0.170562395,11.2685238 L1.26854326,10.1706206 C1.49593391,9.94322997 1.86461885,9.94322997 2.09193186,10.1706206 L12,20.0786888 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="cosis" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="05-Pantalla_BAH__tpl_iph5_vw_320" transform="translate(-147.000000, -533.000000)">
+            <g id="indicador_scroll" transform="translate(149.000000, 534.000000)">
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#D7192D" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
