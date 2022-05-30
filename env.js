@@ -1,0 +1,1 @@
+!function(window){window.env=window.env||{},window.env.services="https://ibisservices.iberia.com/api",window.env.auth="https://ibisauth.iberia.com/api",window.env.ASSETS_URL="http://127.0.0.1:8081/build",window.env.globalAuthorizationToken="Basic aWJlcmlhX3dlYjo5ZGM4NzZjYi0xMDVkLTQ4MWItODM4Yy01NGUyNGQ3NDEwYzk="}(this);
